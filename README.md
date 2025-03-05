@@ -1,4 +1,8 @@
 
+### Moved to https://git.lynxize.dev/lynxize/vencord-plugins
+
+----
+
 > [!WARNING]
 > I'm not a frontend dev (or even a JS/TS dev for that matter), and have no idea what I'm doing.
 > Don't expect great code quality.
